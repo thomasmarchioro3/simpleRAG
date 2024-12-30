@@ -1,0 +1,11 @@
+
+# Personal PDF files
+pdf/*.pdf
+
+# Chroma DB
+chroma-db/*
+*.sqlite
+
+# Python cache files
+**/__pycache__/*
+*.pyc
